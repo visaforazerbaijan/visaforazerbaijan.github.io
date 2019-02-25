@@ -88,4 +88,4 @@ On the other hand, you can also check the status of your application and downloa
 No. As you have already applied through electronic visa application system, you will be able to download your e-Visa directly from www.visaforazerbaijan.com after getting approval.
 
 ## Source
-[e-Visa for Azerbaijan](https://visaforazerbaijan)
+[e-Visa for Azerbaijan](https://visaforazerbaijan.com/)
